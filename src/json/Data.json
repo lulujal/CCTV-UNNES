@@ -1,0 +1,33 @@
+{
+  "CCTV": [{
+    "content": "Alamat: Unnes, Sekaran, Kec. Gn. Pati, Kota Semarang, Jawa Tengah 50229",
+    "nama": "Digital Center",
+    "pos": {
+      "lat": -7.0511866,
+      "lng": 110.3902528
+    },
+    "type": "building",
+    "url": "rtsp://cobastream:bosku123@@103.23.103.124:554/Streaming/channels/6001"
+  },
+  {
+    "content": "Alamat: Simpang tujuh, UNNES, Sekaran, Kec.GunungPati, Kota Semarang",
+    "nama": "Simpang Tujuh",
+    "pos": {
+      "lat": -7.048617,
+      "lng": 110.395068
+    },
+    "type": "street",
+    "url": "https://rtsp.me/embed/a653ZRBF/"
+  },
+  {
+    "content": "Alamat: FT UNNES, Sekaran, Kec. Gn. Pati, Kota Semarang, Jawa Tengah 50229",
+    "nama": "Gedung E11",
+    "pos": {
+      "lat": -7.0504833,
+      "lng": 110.399752
+    },
+    "type": "building",
+    "url": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mp4"
+  }
+  ]
+}

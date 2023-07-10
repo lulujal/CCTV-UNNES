@@ -4,3 +4,13 @@
   height: 1000px; /* The height is 400 pixels */
   width: 100%; /* The width is the width of the web page */
 }
+
+#headerPopup{
+  width:75%;
+  margin:0 auto;
+}
+
+#headerPopup iframe{
+  width:100%;
+  margin:0 auto;
+}
